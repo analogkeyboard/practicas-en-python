@@ -1,0 +1,4 @@
+correo1@dominio.com
+correo3@dominio.com
+correo5@dominio.com
+correo6@dominio.com
