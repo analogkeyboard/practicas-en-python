@@ -1,0 +1,5 @@
+print(50*"*")
+print(20*" "+"Hello app")
+print(50*"*")
+user_name=input("Nombre: ")
+print("Mi nombre es: "+user_name)

@@ -1,0 +1,3 @@
+fruta 3:naranja
+fruta 2:pera
+fruta 1:manzana
